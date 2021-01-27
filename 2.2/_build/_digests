@@ -1,0 +1,8 @@
+"Rule: ocaml: ml -> cmo & cmi (%=hello )": "\001\213ax\184*|\2389Z\242\136U\004\171\000"
+"Rule: ocaml dependencies ml (%=hello )": "\193\186/\027\231O^\242\188\222\154blv\208t"
+"Rule: ocaml: cmo* -> byte (%=hello )": "]\2058*BF\167\213\127\167\127'\128b\n\157"
+"Rule: ocaml dependencies ml (%=mycode )": "\255\196\183\tS1\140uS\002$\231V=&2"
+"Resource: /Users/xvi/Desktop/3110-OCaml/2.2/hello.ml": "\132\149\175W\206(\251\183\011\225\\\2267\015\002K"
+"Resource: /Users/xvi/Desktop/3110-OCaml/2.2/mycode.ml": "\r\203\1685G\142\018\204\162J\144.s\193\221\225"
+"Rule: ocaml: ml -> cmo & cmi (%=mycode )": "\208\219\151\141\212\202\252\253\167[\203\162e\158\011\242"
+"Rule: ocaml: cmo* -> byte (%=mycode )": "\166\217\230\b6-\211\136\232\021Q\175\236\178\152$"
